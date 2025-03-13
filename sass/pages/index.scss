@@ -1,0 +1,43 @@
+html, body {
+  height: 100%;
+}
+
+main {
+  height: 100%;
+  display: grid;
+}
+
+section {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  grid-row: 3fr;
+}
+
+h1 {
+  width: 100%;
+  margin: auto 0 0 0;
+  font-weight: 400;
+  text-align: center;
+  font-size: var(--font-size-128);
+  line-height: var(--line-height-105);
+  letter-spacing: var(--letter-spacing);
+}
+
+footer {
+  display: flex;
+  grid-row: 2fr;
+  justify-content: space-between;
+}
+
+footer > p {
+  width: 100%;
+  margin-top: auto;
+  text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+  h1 {
+    font-size: var(--font-size-80);
+  } 
+}
