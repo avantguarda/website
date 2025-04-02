@@ -2,12 +2,12 @@
 {% block head %}
 <title>Not Found Club</title>
 <meta name="description" content="NotFound é um estúdio de tecnologia independente em Atibaia, focado em amplificar a identidade brasileira por meio de soluções inovadoras, como websites imersivos, e-commerces rápidos e aplicativos nativos. Também apoia a privacidade digital e a representatividade no setor."/>
-<link rel="stylesheet" href="pages/index.css" crossorigin="anonymous" /> 
+<link rel="stylesheet" href="/pages/index.css" crossorigin="anonymous" /> 
 {% endblock head %}
 
 {% block content %}
-    <h1><i>not</i> found</h1>
-    <p id="sobre">{{ section.content | safe }}</p>
+    <h1>{{page.title}}</h1>
+    <p>{{ page.content | safe }}</p>
     <footer id="contato">
 	<a href="mailto:ola@notfound.club">ola@notfound.club</a>
 	<a href="https://github.com/notfoundclub" target="_blank">acompanhe os nossos projetos</a>

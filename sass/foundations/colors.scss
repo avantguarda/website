@@ -1,10 +1,41 @@
 :root {
-  --accent-color: #CD3333;
-  --color-primary: #0C0E1D;
-  --background-primary: #F8F6F2;
+  
+  --body-default: hsl(0, 0%, 10%);
+  --accent-default: hsl(229, 100%, 39%);
+  --background-default: hsl(0, 0%, 99%);
+
+  --hyperlink-default: hsl(229, 100%, 39%);
+  --hyperlink-visited: hsl(259, 42%, 35%);
+  --hyperlink-hover: hsl(240, 63%, 27%);
 }
 
 html, body  {
-  color: var(--color-primary);
-  background: var(--background-primary);
+  color: var(--body-default);
+  background: var(--background-default);
+}
+
+a {
+  color: var(--hyperlink-default);
+}
+
+a:visited {
+  color: var(--hyperlink-visited);
+}
+
+a:hover {
+  color: var(--hyperlink-hover);
+}
+
+i,
+b,
+em {
+  color: inherit;
+}
+
+main > h1 {
+  color: var(--accent-default);
+}
+
+header > a.logo {
+  color: var(--accent-default);
 }
