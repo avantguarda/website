@@ -12,6 +12,12 @@ main > h1 {
   letter-spacing: var(--headline-spacing);
 }
 
+main > h2 {
+  margin: 0;
+  font-size: var(--subheadline-size);
+  letter-spacing: var(--subheadline-spacing);
+}
+
 p {
   margin: 0;
   height: 100%;

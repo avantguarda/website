@@ -3,13 +3,13 @@
   --font-sans-serif: Helvetica, ui-sans-serif;
   --header-size: clamp(1rem, 0.917rem + 0.417vw, 1.25rem);
   --header-spacing: calc(-0.01 * var(--header-size));
-  --headline-size: clamp(5rem, 28vw, 24rem);
+  --headline-size: clamp(5rem, 26vw, 24rem);
   --headline-spacing: calc(-0.01 * var(--headline-size));
-  --subheadline-size: clamp(5rem, 1.333rem + 18.333vw, 16rem);
+  --subheadline-size: clamp(2rem, 1.333rem + 3.333vw, 4rem);
   --subheadline-spacing: calc(-0.01 * var(--subheadline-size));
   --body-size: clamp(1.5rem, 1.333rem + 0.833vw, 2rem);
   --body-spacing: calc(-0.01 * var(--body-size));
-  --footer-size: clamp(1rem, 0.917rem + 0.417vw, 1.25rem);
+  --footer-size: clamp(1.25rem, 1.167rem + 0.417vw, 1.5rem);
   --footer-spacing: calc(-0.01 * var(--header-size));
 }
 
