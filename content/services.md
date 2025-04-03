@@ -1,5 +1,5 @@
 +++
-title = "Serviços"
+title = "serviços"
 template = "service.html"
 authors = ["Thiago Campos"]
 description = "A NotFound desenvolve aplicativos utilizando ferramentas nativas, como SwiftUI e Jetpack Compose"
