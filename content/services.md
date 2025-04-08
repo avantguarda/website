@@ -5,7 +5,8 @@ authors = ["Thiago Campos"]
 description = "A NotFound desenvolve aplicativos utilizando ferramentas nativas, como SwiftUI e Jetpack Compose"
 +++
 
-Somos jovens, mas não confunda juventude com inexperiência. Estamos na vanguardam, buscando transformar desafios em inovações que mudam o mercado. Nossa juventude é nossa vantagem: pensamos diferente. Já trabalhamos com gigantes do mercado — [Dafiti](https://www.dafiti.com.br/), [Bradesco](https://bradesco.com.br), [Pride Global](https://prideglobal.com) e [FGV](https://fgv.br). Jovens? Sim. Inexperientes? Jamais. Não nos contentamos com o óbvio — redefinimos o que é possível.
+Somos jovens, mas não confunda juventude com inexperiência. Fazemos parte da *avant-garde*, explorando abordagens que desafiam os cânones vigentes. Nossa juventude é nossa vantagem: pensamos diferente. Já trabalhamos com gigantes do mercado — [Dafiti](https://www.dafiti.com.br/), [Bradesco](https://bradesco.com.br), [Pride Global](https://prideglobal.com) e [FGV](https://fgv.br). Jovens? Sim. Inexperientes? Jamais. Não nos contentamos com o óbvio — redefinimos o que é possível.
+
 
 ## WebApps  
 
