@@ -1,9 +1,9 @@
-# Not Found
-Not Found's website is built using [Zola](getzola.org).
+# Casa Paulista
+Casa Paulista's website is built using [Zola](getzola.org).
 
 
 ## Getting Started
-To get started with Not Found, you need to have [Git](https://git-scm.com) and [Zola](https://getzola.org/) installed. You can install Zola by following the instructions on the [Zola installation page](https://getzola.org/documentation/getting-started/installation/). Git is usually pre-installed on most systems, but if you need to install it, you can find instructions in [their website](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+To get started with Casa Paulista, you need to have [Git](https://git-scm.com) and [Zola](https://getzola.org/) installed. You can install Zola by following the instructions on the [Zola installation page](https://getzola.org/documentation/getting-started/installation/). Git is usually pre-installed on most systems, but if you need to install it, you can find instructions in [their website](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
 ### Building the Site
 To build the site, run the following command in the root directory of the project:
