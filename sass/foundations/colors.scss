@@ -1,11 +1,11 @@
 :root {
-  --body-default: hsl(0, 0%, 10%);
-  --accent-default: hsl(229, 100%, 39%);
-  --background-default: hsl(0, 0%, 99%);
+  --body-default: #2F564D;
+  --accent-default: #1C3A2F;
+  --background-default: #F5F1E8;
 
-  --hyperlink-default: hsl(229, 100%, 39%);
-  --hyperlink-visited: hsl(259, 42%, 35%);
-  --hyperlink-hover: hsl(240, 63%, 27%);
+  --hyperlink-default: #1C3A2F;
+  --hyperlink-visited: #417164;
+  --hyperlink-hover: #2F564D;
 }
 
 html, body  {

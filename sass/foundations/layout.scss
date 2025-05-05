@@ -33,6 +33,22 @@ header ul {
   list-style-type: none;
 }
 
+footer > * {
+  width: 100%;
+}
+
+footer > h3 {
+  text-align: center;
+}
+
+footer > p {
+  text-align: right;
+}
+
+footer nav {
+  gap: 1.5em;
+  display: flex;
+}
 
 @media only screen and (max-width: 48rem) {
   body {
@@ -41,8 +57,15 @@ header ul {
 
   footer {
     gap: 1rem;
-    justify-content: unset;
     flex-direction: column;
+  }
+
+  footer nav {
+    justify-content: center;
+  }
+
+  footer p {
+    text-align: center;
   }
 }
 

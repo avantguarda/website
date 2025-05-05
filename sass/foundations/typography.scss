@@ -58,9 +58,9 @@ header > a.logo {
   letter-spacing: calc(1.5 * var(--header-spacing));
 }
 
-footer * {
-  font-size: var(--footer-size);
-  letter-spacing: var(--footer-spacing);
+footer p, footer a {
+  font-size: .75rem;
+  text-transform: uppercase;
 }
 
 main > h1 {

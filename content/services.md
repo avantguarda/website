@@ -1,18 +1,14 @@
 +++
-title = "serviços"
+title = "ofícios"
 template = "service.html"
 authors = ["Thiago Campos"]
 description = "A Casa Paulista desenvolve aplicativos utilizando ferramentas nativas, como SwiftUI e Jetpack Compose"
 +++
+Somos jovens, mas não confunda juventude com inexperiência. Fazemos parte da *avant-garde*, explorando abordagens que desafiam os cânones vigentes. Nossa juventude é nossa vantagem: pensamos diferente. Já trabalhamos com gigantes do mercado — [Dafiti](https://www.dafiti.com.br/), [Bradesco](https://bradesco.com.br), [Pride Global](https://prideglobal.com) e [FGV](https://fgv.br). Jovens? Sim. Inexperientes? Jamais.
 
-Somos jovens, mas não confunda juventude com inexperiência. Fazemos parte da *avant-garde*, explorando abordagens que desafiam os cânones vigentes. Nossa juventude é nossa vantagem: pensamos diferente. Já trabalhamos com gigantes do mercado — [Dafiti](https://www.dafiti.com.br/), [Bradesco](https://bradesco.com.br), [Pride Global](https://prideglobal.com) e [FGV](https://fgv.br). Jovens? Sim. Inexperientes? Jamais. Não nos contentamos com o óbvio — redefinimos o que é possível.
+## Web
 
-
-## WebApps  
-
-Seja para criar um site institucional rápido e seguro ou uma plataforma web complexa, nossa abordagem combina ferramentas modernas com foco no seu objetivo final. Para projetos como blogs e portfólios, utilizamos o [Hugo](https://gohugo.io/), uma solução que garante velocidade de carregamento e otimização para mecanismos de busca, reduzindo custos operacionais. 
-
-Quando o desafio exige interatividade e escalabilidade, como em dashboards corporativos ou sistemas de gestão, trabalhamos com [HTMX](https://htmx.org/) e [SvelteKit](https://kit.svelte.dev/) para criar experiências dinâmicas que se adaptam a milhares de usuários simultaneamente. No backend, APIs desenvolvidas com [FastAPI](https://fastapi.tiangolo.com/) (Python) e [Actix](https://actix.rs/) (Rust) garantem integração fluida com seus sistemas existentes, segurança robusta e performance sob demanda.  
+Onde sistemas são feitos como arte, a escolha das ferramentas de trabalho ganham tamanha importância. Às empresas que buscam um canto na *web* para expandir o reconhecimento da marca, escolhemos utilizar o gerador de site estático [Zola](https://getzola.org) dado a sua simplicidade e flexibilidade. Às companhias que esperam uma aplicação mais robusta para lidar com tarefas específicas de seus processos, credenciamos as seguintes tecnologias como ideais: [HTMX](https://htmx.org/) e [SvelteKit](https://kit.svelte.dev/) para criar experiências rápidas e dinâmicas. Para tratar da lógica de negócios, APIs desenvolvidas com [FastAPI](https://fastapi.tiangolo.com/) (Python) e [Gin](https://gin-gonic.com/) (Go) garantem integração fluida com seus sistemas existentes, segurança robusta e performance sob demanda.
 
 ## E-commerces  
 
