@@ -1,15 +1,16 @@
 # Casa Paulista
-Casa Paulista's website is built using [Zola](getzola.org).
+Casa Paulista's website is built using [Hypertext](https://github.com/casapaulista/hypertext).
 
 
 ## Getting Started
-To get started with Casa Paulista, you need to have [Git](https://git-scm.com) and [Zola](https://getzola.org/) installed. You can install Zola by following the instructions on the [Zola installation page](https://getzola.org/documentation/getting-started/installation/). Git is usually pre-installed on most systems, but if you need to install it, you can find instructions in [their website](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+To get started with Casa Paulista, you need to have [Git](https://git-scm.com) and [Hypertext](https://github.com/casapaulista/hypertext) installed. 
+You can install Hypertext by following the instructions on the [Zola installation page](https://getzola.org/documentation/getting-started/installation/).
 
 ### Building the Site
 To build the site, run the following command in the root directory of the project:
 
 ```bash
-zola build
+hx build
 ```
 
 This will generate the static files for the site in the `public` directory.
@@ -18,10 +19,10 @@ This will generate the static files for the site in the `public` directory.
 To run the site locally, you can use the following command:
 
 ```bash
-zola serve
+hx serve
 ```
 
-This will start a local server and you can view the site in your web browser at `http://localhost:1111`.
+This will start a local server and you can view the site in your web browser at `http://localhost:8000`.
 
 ### Deploying the Site
 To deploy the site, you can use the following command:
