@@ -4,7 +4,6 @@ Casa Paulista's website is built using [Hypertext](https://github.com/casapaulis
 
 ## Getting Started
 To get started with Casa Paulista, you need to have [Git](https://git-scm.com) and [Hypertext](https://github.com/casapaulista/hypertext) installed. 
-You can install Hypertext by following the instructions on the [Zola installation page](https://getzola.org/documentation/getting-started/installation/).
 
 ### Building the Site
 To build the site, run the following command in the root directory of the project:
