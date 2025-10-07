@@ -2,8 +2,8 @@
 title: Casa Paulista
 template: index.html
 ---
-*Casa* Paulista é um estúdio independente de tecnologia sediado em São Paulo. Fundado por [Thiago Campos](https://thigcampos.com/), 
-[Ivan Santiago](https://www.linkedin.com/in/ivansnjunior/) e [Matheus Rosa](https://www.linkedin.com/in/matheus-henrique-ptasinski-rosa-7127bb226/), 
+*Casa* Paulista é um estúdio independente de tecnologia sediado em São Paulo. Fundado por [Augusto Manaro](https://www.linkedin.com/in/augusto-manaro), 
+[Ivan Santiago](https://www.linkedin.com/in/ivansnjunior/), [Matheus Rosa](https://www.linkedin.com/in/matheus-henrique-ptasinski-rosa-7127bb226/) e [Thiago Campos](https://thigcampos.com/), 
 a *Casa* Paulista busca refletir e amplificar a identidade brasileira, assim como fizeram as marcantes curvas dos prédios de 
 [Oscar Niemeyer](https://pt.wikipedia.org/wiki/Oscar_Niemeyer) e os preciosos textos de 
 [Machado de Assis](https://pt.wikipedia.org/wiki/Machado_de_Assis). Queremos que a tecnologia não apenas resolva problemas, mas também conte histórias, 
