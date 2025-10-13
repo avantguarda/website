@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width" />
-    <link rel="stylesheet" href="/foundations/typography.css" crossorigin="anonymous" />
-    <link rel="stylesheet" href="/foundations/colors.css" crossorigin="anonymous" />
-    <link rel="stylesheet" href="/foundations/layout.css" crossorigin="anonymous" />
+    <link rel="stylesheet" href="/styles/foundations/typography.css" crossorigin="anonymous" />
+    <link rel="stylesheet" href="/styles/foundations/colors.css" crossorigin="anonymous" />
+    <link rel="stylesheet" href="/styles/foundations/layout.css" crossorigin="anonymous" />
     <link rel="icon" href="/favicon.ico" sizes="any" />
     <link rel="preload" href="/fonts/instrument-italic.woff2" as="font" type="font/woff2" crossorigin="anonymous">
     <link rel="preload" href="/fonts/instrument-normal.woff2" as="font" type="font/woff2" crossorigin="anonymous">
     <meta name="theme-color" content="#FFFFFF">
     <title>Casa Paulista</title>
     <meta name="description" content="Casa Paulista é um estúdio de tecnologia independente, focado em amplificar a identidade brasileira por meio de soluções inovadoras, como websites imersivos, e-commerces rápidos e aplicativos nativos. Também apoia a privacidade digital e a representatividade no setor."/>
-    <link rel="stylesheet" href="pages/index.css" crossorigin="anonymous" /> 
+    <link rel="stylesheet" href="/styles/pages/index.css" crossorigin="anonymous" /> 
   </head>
   <body>
     <main>
@@ -22,13 +22,13 @@
         </svg>
         <nav>
           <ul>
-            <li><a href="/#sobre">Sobre</a></li>
+            <li><a href="#sobre">Sobre</a></li>
             <li><a href="#contato">Contato</a></li>
           </ul>
         </nav>
       </header>
       <h1><i>casa</i> paulista</h1>
-      <p id="sobre">{{{ content }}}</p>
+      <p id="sobre">{{ page.content }}</p>
       <footer id="contato">
         <a href="mailto:ola@casapaulista.com">ola@casapaulista.com</a>
         <a href="https://github.com/casapaulista" target="_blank">acompanhe os nossos projetos</a>
