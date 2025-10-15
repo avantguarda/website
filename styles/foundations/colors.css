@@ -1,7 +1,7 @@
 :root {
-  --body-default: hsl(0, 0%, 10%);
+  --body-default: #F2F2F2;
   --accent-default: hsl(229, 100%, 39%);
-  --background-default: hsl(0, 0%, 99%);
+  --background-default: #1B1B1B;
 
   --hyperlink-default: hsl(229, 100%, 39%);
   --hyperlink-visited: hsl(259, 42%, 35%);
